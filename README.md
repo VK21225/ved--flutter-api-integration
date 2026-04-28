@@ -1,19 +1,25 @@
-# Flutter API Integration
+# Flutter API Integration App (Advanced)
 
-## Description
-This Flutter app fetches data from a public REST API and displays it using ListView.
+## 👨‍🎓 Student Details
+- Name: YOUR NAME HERE
+- Enrollment Number: YOUR ENROLLMENT NUMBER
 
-## Features
-- REST API Integration
+## 📌 Description
+This Flutter app integrates a public REST API and displays data using GridView.
+
+## 🚀 Features
+- API Integration
 - JSON Parsing
-- ListView UI
+- GridView UI
+- Loading Indicator
+- Error Handling
 
-## API Used
+## 📡 API Used
 https://jsonplaceholder.typicode.com/posts
 
-## Output
-Displays list of posts from API.
+## ▶️ How to Run
+flutter pub get
+flutter run
 
-## Student Details
-Name: Kankotiya ved v.
-Enrollment No: 20230905090513
+## 📷 Output
+(Add screenshots here)
